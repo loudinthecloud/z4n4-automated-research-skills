@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "agent-bayes": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://api.agentbayes.com/mcp/",
+        "--header",
+        "X-API-Key:${AGENT_BAYES_API_KEY}"
+      ],
+      "env": {
+        "AGENT_BAYES_API_KEY": "${AGENT_BAYES_API_KEY}"
+      }
+    }
+  }
+}

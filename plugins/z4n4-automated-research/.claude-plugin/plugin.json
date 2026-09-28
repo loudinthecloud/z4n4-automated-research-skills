@@ -1,0 +1,21 @@
+{
+  "name": "z4n4-automated-research",
+  "version": "1.0.0",
+  "description": "One agent skill for academic research, powered by Agent Bayes. It works at the size you ask, from a cited answer about the literature to a full paper from a seed idea: corpus building, literature reviews and gaps, positioning, study design and analyses, writing, review, and typesetting, with every literature claim carrying a verified page-level citation.",
+  "author": {
+    "name": "Archaeomind Ltd."
+  },
+  "repository": "https://github.com/loudinthecloud/z4n4-automated-research-skills",
+  "license": "SEE LICENSE (non-commercial, attribution required)",
+  "keywords": [
+    "research",
+    "academic-writing",
+    "agent-bayes",
+    "literature-review",
+    "systematic-review",
+    "research-gaps",
+    "experiments",
+    "citations",
+    "latex"
+  ]
+}

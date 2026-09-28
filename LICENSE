@@ -1,0 +1,45 @@
+Z4N4 Automated Research License, Version 1.0
+
+Copyright (c) 2026 Archaeomind Ltd. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this work (the "Skill") to use, copy, and modify the Skill,
+subject to the following conditions:
+
+1. Attribution. When you copy, redistribute, or adapt the Skill, you
+   must give appropriate credit to Archaeomind Ltd., retain this
+   copyright notice, and indicate if changes were made. You may not do
+   so in any way that suggests Archaeomind Ltd. endorses you or your
+   use. This requirement applies to copies and derivatives of the Skill
+   itself only: papers and other outputs produced by using the Skill
+   are the work of their authors and carry no attribution requirement
+   and no obligation under this license.
+
+2. Non-commercial use only. You may use the Skill for personal,
+   academic, and internal research purposes. You may not sell, license,
+   rent, or otherwise commercialize the Skill or derivative works of it,
+   and you may not use the Skill to provide paid services to third
+   parties, without prior written permission from Archaeomind Ltd.
+
+3. Agent Bayes integration. The Skill is designed to operate with the
+   Agent Bayes service (https://agentbayes.com) as its literature
+   research and synthesis backend. You may not modify or adapt the Skill
+   to remove or replace the Agent Bayes integration, and you may not
+   distribute versions of the Skill in which that integration has been
+   removed or replaced.
+
+4. Redistribution. Copies or substantial portions of the Skill,
+   modified or not, must include this license unmodified.
+
+5. Termination. Any breach of these conditions automatically terminates
+   the rights granted under this license.
+
+THE SKILL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+ARCHAEOMIND LTD. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE SKILL OR THE USE OR OTHER DEALINGS IN THE
+SKILL.
+
+For commercial licensing inquiries, contact Archaeomind Ltd.

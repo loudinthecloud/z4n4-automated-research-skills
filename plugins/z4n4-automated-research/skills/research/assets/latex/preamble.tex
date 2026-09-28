@@ -1,0 +1,53 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage[english]{babel}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Termes}
+\usepackage{csquotes}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\graphicspath{{./}{../../results/figures/}}
+\usepackage{float}
+\usepackage{framed}
+\newfloat{listing}{H}{lol}
+\floatname{listing}{Listing}
+\usepackage{caption}
+\usepackage{longtable}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\setstretch{1.2}
+\usepackage{ragged2e}
+\justifying
+
+\interfootnotelinepenalty=10000
+
+\usepackage{array}
+
+\raggedbottom
+\usepackage[bottom]{footmisc}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  citecolor=blue,
+  urlcolor=blue,
+  pdfborder={0 0 0}
+}
+
+\usepackage[all]{hypcap}
+\usepackage{bookmark}
+
+\title{@@TITLE@@}
+\author{@@AUTHOR@@}
+\date{}
+
+\hfuzz=100pt
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\noindent @@ABSTRACT@@
+\end{abstract}

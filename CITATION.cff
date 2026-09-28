@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you would like to acknowledge this skill in your research, please cite it as below."
+type: software
+title: "Z4N4 Automated Research: An Agent Skill for Academic Research with Agent Bayes"
+authors:
+  - family-names: Zana
+    given-names: Guy
+    affiliation: Archaeomind Ltd.
+version: 1.0.0
+date-released: "2026-09-28"
+repository-code: "https://github.com/loudinthecloud/z4n4-automated-research-skills"
+url: "https://agentbayes.com"
+keywords:
+  - academic-writing
+  - research-agent
+  - agent-bayes
+  - literature-review
+  - research-gaps
+  - citations
